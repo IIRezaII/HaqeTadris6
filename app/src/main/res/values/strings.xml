@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HaqeTadris6</string>
+
+    <string name="Result"></string>
+    <string name="Unit">واحد درس</string>
+    <string name="stuNumber">تعداد دانشجو</string>
+    <string name="button">=</string>
+    <string name="general">عمومی</string>
+    <string name="professional">تخصصی</string>
+    <string name="emptyUnitText">لطفا مقدار واحد را وارد کنید</string>
+    <string name="Master">ارشد</string>
+    <string name="General">عمومی</string>
+    <string name="associate">کارشناسی</string>
+    <string name="anounceResult">ضریب حق تدریس</string>
+    <string name="Home">گزارش</string>
+    <string name="pdfEtHint">برای تغییر متن این کادر را لمس کنید</string>
+    <string name="PDF">PDF</string>
+    <string name="Calculation">محاسبه</string>
+    <string name="Share">اشتراک</string>
+    <string name="calculator">ماشین حساب</string>
+    <string name="CourseName">نام درس</string>
+    <string name="HomeTextTitle">گزارش ضرایب محاسبه شده</string>
+    <string name="generate_and_save">نمایش و ذخیره</string>
+    <string name="genearate">ذخیره</string>
+    <string name="emptyList">شما هنوز مقداری را محاسبه نکرده اید</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
