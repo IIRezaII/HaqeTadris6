@@ -55,31 +55,33 @@
                 app:bt_title="@string/Share" />
 
         <com.gauravk.bubblenavigation.BubbleToggleView
-                android:id="@+id/l_item_pdf"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                app:bt_colorActive="@color/blue_grey_active"
-                app:bt_colorInactive="@color/blue_grey_inactive"
-                app:bt_icon="@drawable/ic_pdf"
-                app:bt_shape="@drawable/transition_background_drawable_like"
-                app:bt_title="@string/PDF" />
-
-        <com.gauravk.bubblenavigation.BubbleToggleView
                 android:id="@+id/l_item_calculate"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                app:bt_colorActive="@color/green_active"
-                app:bt_colorInactive="@color/green_inactive"
+                app:bt_colorActive="@color/darkBack"
+                app:bt_colorInactive="@color/startEndColor"
                 app:bt_icon="@drawable/ic_calculate"
                 app:bt_shape="@drawable/transition_background_drawable_list"
                 app:bt_title="@string/Calculation" />
 
         <com.gauravk.bubblenavigation.BubbleToggleView
+                android:id="@+id/l_item_pdf"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:bt_colorActive="@color/orange_active"
+                app:bt_colorInactive="@color/orange_inactive"
+                app:bt_icon="@drawable/ic_pdf"
+                app:bt_shape="@drawable/transition_background_drawable_like"
+                app:bt_title="@string/PDF" />
+
+
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
                 android:id="@+id/l_item_profile"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                app:bt_colorActive="@color/purple_active"
-                app:bt_colorInactive="@color/purple_inactive"
+                app:bt_colorActive="@color/blue_grey_active"
+                app:bt_colorInactive="@color/blue_grey_inactive"
                 app:bt_icon="@drawable/ic_calculator"
                 app:bt_shape="@drawable/transition_background_drawable_person"
                 app:bt_title="@string/calculator" />

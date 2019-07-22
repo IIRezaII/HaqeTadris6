@@ -54,7 +54,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         //change the initial activate element
-        val newInitialPosition = 2
+        val newInitialPosition = 0
         bottomNavigationViewLinear.setCurrentActiveItem(newInitialPosition)
         view_pager.setCurrentItem(newInitialPosition, false)
 
